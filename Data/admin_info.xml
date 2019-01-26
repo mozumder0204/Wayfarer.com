@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wafarer>
+
+	<admin>
+		<username>admin1</username>
+		<password>1111</password>
+	</admin>
+	<admin>
+		<username>admin2</username>
+		<password>2222</password>
+	</admin>
+	<admin>
+		<username>admin3</username>
+		<password>3333</password>
+	</admin>
+	
+</wafarer>

@@ -1,0 +1,22 @@
+Type
+Bank
+School
+Hospital
+ATM Booth
+Government
+Hotel
+University
+Airport
+Shopping Mall
+Fire Station
+Police Station
+Train Station
+Bus Station
+Filling Station
+Library
+Restaurant
+Super Market
+Pharmacy
+Stadium
+Post Office
+Museum

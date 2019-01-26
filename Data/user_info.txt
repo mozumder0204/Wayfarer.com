@@ -1,0 +1,6 @@
+Full Name-Username-Gender-Mail-Phone-Password-Day-Month-Year
+--------
+user-user1-male-user@gmail.com-01711111111-1111-1-January-2018
+user2-user2-male-user2@gmail.com-01711111111-2222-1-January-2018
+--------
+--------

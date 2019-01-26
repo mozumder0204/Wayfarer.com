@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wafarer>
+
+	<user>
+		<name>user</name>
+		<username>user1</username>
+		<gender>male</gender>
+		<mail>user1@gmail.com</mail>
+		<phone>01711111111</phone>
+		<password>1111</password>
+		<day>1</day>
+		<month>January</month>
+		<year>2018</year>
+	</user>
+		<user>
+		<name>user2</name>
+		<username>user2</username>
+		<gender>male</gender>
+		<mail>user2@gmail.com</mail>
+		<phone>01711111111</phone>
+		<password>2222</password>
+		<day>1</day>
+		<month>January</month>
+		<year>2018</year>
+	</user>
+	
+	
+</wafarer>
