@@ -1,0 +1,22 @@
+body {
+  background: url("../land2.png");
+}
+
+input[type=submit] {
+  font-family:Josefin Sans Light;
+  font-size:35px;
+  background-color:#060B22 ;
+  color:#FFFFFF;
+  width: 250px;
+  height: 40px;
+  float: right;
+}
+
+input[name="getstarted"] {
+  font-family:Josefin Sans Light;
+  font-size:50px;
+  width: 150%;
+  height: 100%;
+  background-color:#060B22 ;
+  color:#FFFFFF;
+}
